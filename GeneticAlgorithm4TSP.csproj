@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0FEA08CB-7864-49AB-9746-41B6DE248672}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Q1_14F8028</RootNamespace>
-    <AssemblyName>Q1_14F8028</AssemblyName>
+    <RootNamespace>GeneticAlgorithm4TSP</RootNamespace>
+    <AssemblyName>GeneticAlgorithm4TSP</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
