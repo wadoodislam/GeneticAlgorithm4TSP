@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Q123_14F8028
+namespace GeneticAlgorithm4TSP
 {
     class Tour
     {
