@@ -23,6 +23,8 @@ To run the program follow these commands:
 5. `~$ cd ../<name for new project>/`
 6. `~$ dotnet run`
 
+![alt text](/screenshots/Linux.png)
+
 
 ## Reflection
 This was a week-long project built during *Computational Intelligence* course as a midterm project at the **National University of Computer and Emerging Sciences**. Project goals included acquiring practical hands-on experience on *Genetic Algorithm* and compare results changing its various parameters.
