@@ -8,9 +8,11 @@ Implementation of Genetic Algorithm to approximately solve the Euclidian Traveli
 You will need `.NET v4` installed on your machine.  
 
 To run the program follow these commands:
-1. `git clone https://github.com/wadoodislam/GeneticAlgorithm4TSP.git`
-2. `cd GeneticAlgorithm4TSP`
-3. `.../GeneticAlgortihm4TSP> C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe Program.cs`
+1. `> git clone https://github.com/wadoodislam/GeneticAlgorithm4TSP.git`
+2. `> cd GeneticAlgorithm4TSP`
+3. `.../GeneticAlgortihm4TSP> C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild GeneticAlgorithm4TSP.csproj`
+4. `.../GeneticAlgorithm4TSP> copy *.txt bin\Debug`
+5. `.../GeneticAlgorithm4TSP> bin\Debug\GeneticAlgorithm4TSP`
 
 #### For Linux Users:
 You will need `dotnet-sdk-2.2` installed on your machine. you can find instructions for this [here](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
