@@ -14,6 +14,8 @@ To run the program follow these commands:
 4. `...> copy *.txt bin\Debug`
 5. `...> bin\Debug\GeneticAlgorithm4TSP`
 
+![alt text](/screenshots/Windows.png)
+
 #### For Linux Users:
 You will need `dotnet-sdk-2.2` installed on your machine. you can find instructions for this [here](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 
