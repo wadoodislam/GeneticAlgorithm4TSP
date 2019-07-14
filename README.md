@@ -27,7 +27,7 @@ To run the program follow these commands:
 
 
 ## Reflection
-This was a week-long project built during *Computational Intelligence* course as a midterm project at the **National University of Computer and Emerging Sciences**. Project goals included acquiring practical hands-on experience on *Genetic Algorithm* and compare results changing its various parameters.
+This was a week-long project built during **Computational Intelligence** course as a midterm project at the [National University of Computer and Emerging Sciences](http://nu.edu.pk/). Project goals included acquiring practical hands-on experience on **Genetic Algorithm** and compare results changing its various parameters.
 
 This project helped me understand and acquire in-depth knowledge of genetic algorithm dynamics and taught me how can we translate a problem to chromosomes to apply evolutionary algorithms and how different parameters of the algorithm like mutation rate, crossover, and selection methods play vital roles in the accuracy and completion time of the algorithm.
 
