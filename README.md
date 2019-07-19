@@ -36,3 +36,17 @@ This was a week-long project built during **Computational Intelligence** course 
 This project helped me understand and acquire in-depth knowledge of genetic algorithm dynamics and taught me how can we translate a problem to chromosomes to apply evolutionary algorithms and how different parameters of the algorithm like mutation rate, crossover, and selection methods play vital roles in the accuracy and completion time of the algorithm.
 
 The language used to implement this project in C# (c-sharp). I choose C# because it is a sophisticated object-oriented language that allowed me to implement the genetic algorithm without giving to much high-level abstraction while keeping the code clean and modular.
+
+## License
+
+* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+## Contributing
+
+Please fork this repository and contribute back using
+[pull requests](https://github.com/wadoodislam/GeneticAlgorithm4TSP/pulls).
+
+Any contributions, large or small, major features, bug fixes, additional
+language translations, unit/integration tests are welcomed and appreciated
+but will be thoroughly reviewed and discussed.
+
