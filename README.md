@@ -39,7 +39,7 @@ The language used to implement this project in C# (c-sharp). I choose C# because
 
 ## License
 
-* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+* [Apache Version 2.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contributing
 
